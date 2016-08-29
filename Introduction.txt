@@ -1,0 +1,41 @@
+--------------------
+State the impact of changes in CO2 with the recent climate change, mention the importance of ob-\
+serving these changes with reliable data sets around the world, both from ground networks and\
+satellite measurements. Add key studies describing CO2 measurements with solar absorption FTIR,\
+describe the TCCON network and requirements, list previous studies of CO2 measurements in Mex-\
+ico.
+--------------------
+1er parrafo: Impact of CO2 in climate change, importance of observing these changes with reliable data sets
+2ndo parrafo: CO2 in the context of Mexico city
+
+Study of CO2 in Mexico City
+- Baez et al., 1988 .: CO2 concentrations in the highly polluted atmosphere of Mexico City
+- Grutter, 2003 .: Multi-Gas analysis of ambient air using FTIR spectroscopy over Mexico City
+- Velasco et al., 2005 .: Measurements of CO2 fluxes from the Mexico City urban landscape
+- Velasco et al., 2009 .: Eddy covariance flux measurements of pollutant gases in urban Mexico City
+
+(Primer parrafo)
+
+During the last years, carbon dioxide (CO2) has exceeded the pre-industrial levels by about 40%, with fossil fuel combustion and land use change as the main contributors (Hartman et al., 2013).\
+
+(Estudios de CO2 en Mexico)
+
+Studies done to estimate the CO2 concentrations in Mexico City have been scarce, the first one was conducted during 1981 and 1982 and estimated the diurnal and seasonal variation taking air samples in different parts of the city (Baez et al., 1988). Two different campaigns (MCMA-2003, MILAGRO/MCMA-2006) have estimated the CO2 fluxes and concentrations during a regular day in the Mexico City Metropolitan Area (MCMA) using the eddy covariance technique (Velasco et al., 2005, Velasco et al., 2009). The first study using a FTS was done during September 2001 in the south of the MCMA using a Nicolet Nexus interferometer with a resolution of 0.125 cm-1 and retrieving CO2 in the 723-766 spectral region. The emissions inventory for the MCMA estimated that the CO2 emissions for 2012 were 42.1 million of tons.
+
+Incluir datos del inventario de emisiones de gases de efecto invernadero de ZMVM
+Leer intros de Messerschmidt y Dohe
+
+(Estudios de CO2 en el mundo, TCCON, GOSAT)
+(El conocimiento sobre el ciclo del carbono ha aumentado gracias a la observaciones realizadas por la red TCCON,
+la cual cuenta con 18 sitios trabajando y series de tiempo de )
+(GLOBALVIEW-CO2 mide CO2 in-situ)
+
+
+The importance of having datasets of CO2 concentrations around the world have been addressed by networks like GLOBALVIEW-CO2 (GLOBALVIEW-CO2, 2013) and the Total Column Carbon Observing Network (TCCON). TCCON is a worldwide ground-based network of Fourier transform spectrometers (FTS) that records solar absorption spectra in the near infrared (NIR) spectral region in order to retrieve column abundances of CO2, CH4 and other gases, providing reliable, long-term validation datasets for carbon cycle studies and satellite measurements.
+
+
+
+(Referencia de GLOBALVIEW)
+
+Cooperative Global Atmospheric Data Integration Project. 2013, updated annually. Multi-laboratory compilation of synchronized and gap-filled atmospheric carbon dioxide records for the period 1979-2012 (obspack_co2_1_GLOBALVIEW-CO2_2013_v1.0.4_2013-12-23). Compiled by NOAA Global Monitoring Division: Boulder, Colorado, U.S.A. Data product accessed at http://dx.doi.org/10.3334/OBSPACK/1002
+
