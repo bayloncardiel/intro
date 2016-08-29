@@ -37,16 +37,86 @@ Leer intros de Messerschmidt y Dohe
 la cual cuenta con 18 sitios trabajando y series de tiempo de )
 (GLOBALVIEW-CO2 mide CO2 in-situ)
 
-The importance of having datasets of CO2 concentrations around the world have been addressed by networks like GLOBALVIEW-CO2 
-(GLOBALVIEW-CO2, 2013) and the Total Column Carbon Observing Network (TCCON). TCCON is a worldwide ground-based network of 
-Fourier transform spectrometers (FTS) that records solar absorption spectra in the near infrared (NIR) spectral region in 
-order to retrieve column abundances of CO2, CH4 and other gases, providing reliable, long-term validation datasets for 
-carbon cycle studies and satellite measurements.
-
+The importance of having datasets of CO2 concentrations around the world have been addressed by in-situ networks like 
+GLOBALVIEW-CO2 (GLOBALVIEW-CO2, 2013) and remote sensing networks like the Total Column Carbon Observing Network (TCCON).
+TCCON is a worldwide ground-based network of Fourier transform spectrometers (FTS) that records solar absorption spectra 
+in the near infrared (NIR) spectral region in order to retrieve column abundances of CO2, CH4 and other gases. TCCON aims
+to providing reliable, long-term validation datasets for satellite measurements and to improve current knowledge of the 
+carbon cycle therefore it has set a requirement of 0.25% precision in XCO2, complying with the findings of Rayner & O'Brien. 
+(Poner requerimientos y precision de TCCON)
 
 (Referencia de GLOBALVIEW)
 
 Cooperative Global Atmospheric Data Integration Project. 2013, updated annually. Multi-laboratory compilation of synchronized 
 and gap-filled atmospheric carbon dioxide records for the period 1979-2012 (obspack_co2_1_GLOBALVIEW-CO2_2013_v1.0.4_2013-12-23). 
 Compiled by NOAA Global Monitoring Division: Boulder, Colorado, U.S.A. Data product accessed at http://dx.doi.org/10.3334/OBSPACK/1002
+
+(Referencia de SEMARNAR-INECC (2012))
+Mexico, quinta comunicacion nacional ante la convencion marco de las naciones unidas sobre el cambio climatico. Ciudad de Mexico: 
+Secretaria de Medio Ambiente y Recursos Naturales, Instituto Nacional de Ecologia y Cambio Climatico, Grupo Comunicarse, S.C.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Methane is the second most important anthropogenic greenhouse gas. Despite its low concentration in Earth’s atmosphere, 
+CH4 is responsible for about 15 % of the anthropogenic contribution to the greenhouse effect. Currently,there are networks 
+for local flask ground and aircraft mea-
+surements within GAW (Global Atmosphere Watch) and
+NOAA CMDL/ESRL (Climate Monitoring and Diagnos-
+tics Laboratory/Earth System Research Laboratory; Con-
+way et al., 2003). The first global satellite data on the total
+methane content in the atmospheric column were obtained
+using the IMG/ADEOS (Interferometric Monitor for Green-
+house Gases/Advanced Earth Observing Satellite) equipment
+measuring the outgoing thermal radiation spectrum with high
+spectral resolution (Kobayashi et al., 1999). Further studies
+were carried out with satellite devices SCIAMACHY, AIRS,
+IASI, TES (e.g., Xiong et al., 2010; Sussmann et al., 2005;
+Razavi et al., 2009; Wecht et al., 2012). Despite extensive
+observation programs, CH4 geographical distribution and its
+sources are not known sufficiently (Solomon et al., 2007).
+Regular global satellite methane measurements could lead to
+solutions of the problem.
+In January 2009, the GOSAT (Greenhouse gases Observ-
+ing SATellite) was launched. It is a joint project of the
+Japanese Aerospace Exploration Agency, Ministry of the
+Environment and the National Institute for Environmental
+Studies in Tsukuba, Japan (Kuze et al., 2009). The satel-
+lite is designed to monitor global distributions of column
+contents of atmospheric CO2 and CH4 from space. Dry-air,
+column-average mole fractions of carbon dioxide, XCO2 , and
+methane, XCH4 (called “column-averaged methane” below),
+are retrieved from the data of TANSO-FTS (Thermal And
+Nearinfrared Sensor for carbon Observation - Fourier trans-
+form spectrometer), which is a Fourier Transform Spectrom-
+eter for measurements of carbon-bearing gases in the infrared
+range from the GOSAT satellite (Yoshida et al., 2011).
+Ground-based remote sensing optical measurements are
+made at the stations of international networks NDACC
+(Network for the Detection of Atmospheric Composition
+Change) and TCCON (Total Carbon Column Observation
+Network) which uses ground-based Fourier transform in-
+frared (FTIR) spectroscopy of direct solar radiation for reg-
+ular measurements of column contents of CO2 , CH4 and
+other climate-forming gases (Wunch et al., 2011). To ob-
+tain gas species contents, devices of the NDACC and TC-
+CON networks usually use, respectively, middle (MIR) and
+near (NIR) infrared spectral ranges. Sussmann et al. (2013)
 
