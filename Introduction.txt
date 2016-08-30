@@ -16,9 +16,10 @@ Study of CO2 in Mexico City
 
 (Primer parrafo)
 
-During the last years, carbon dioxide (CO2) has exceeded the pre-industrial levels by about 40%, with fossil fuel 
-combustion and land use change as the main contributors (Hartman et al., 2013).\
+During the last decades, carbon dioxide (CO2) has exceeded the pre-industrial levels by about 40% mainly due to fossil fuel 
+combustion and land use change, placing it as the most import anthropogenic greenhouse gas (Hartman et al., 2013).
 
+(Hablar de sources and sinks, explicar la importancia de mediciones y conectarlos con satellites y redes)
 (Estudios de CO2 en Mexico)
 
 Studies done to estimate the CO2 concentrations in Mexico City have been scarce, the first one was conducted during 
@@ -29,24 +30,22 @@ concentrations during a regular day in the Mexico City Metropolitan Area (MCMA) 
 of the MCMA using a Nicolet Nexus interferometer with a resolution of 0.125 cm-1 and retrieving CO2 in the 723-766 
 spectral region. The emissions inventory for the MCMA estimated that the CO2 emissions for 2012 were 42.1 million of tons.
 
-Incluir datos del inventario de emisiones de gases de efecto invernadero de ZMVM
-Leer intros de Messerschmidt y Dohe
+(Leer intro de josue y de alex)
+(Incluir datos del inventario de emisiones de gases de efecto invernadero de ZMVM)
+(Leer intros de Messerschmidt y Dohe)
 
 (Estudios de CO2 en el mundo, TCCON, GOSAT)
-(El conocimiento sobre el ciclo del carbono ha aumentado gracias a la observaciones realizadas por la red TCCON,
-la cual cuenta con 18 sitios trabajando y series de tiempo de )
 (GLOBALVIEW-CO2 mide CO2 in-situ)
 
 The importance of having datasets of CO2 concentrations around the world have been addressed by in-situ networks like 
 GLOBALVIEW-CO2 (GLOBALVIEW-CO2, 2013) and remote sensing networks like the Total Column Carbon Observing Network (TCCON).
 TCCON is a worldwide ground-based network of Fourier transform spectrometers (FTS) that records solar absorption spectra 
 in the near infrared (NIR) spectral region in order to retrieve column abundances of CO2, CH4 and other gases. TCCON aims
-to providing reliable, long-term validation datasets for satellite measurements and to improve current knowledge of the 
-carbon cycle therefore it has set a requirement of 0.25% precision in XCO2, complying with the findings of Rayner & O'Brien. 
+to provide reliable, long-term validation datasets for satellite measurements and to improve current knowledge of the 
+carbon cycle therefore it has set a requirement of 0.25% precision in XCO2, in agreement with the findings of Rayner & O'Brien. 
 (Poner requerimientos y precision de TCCON)
 
 (Referencia de GLOBALVIEW)
-
 Cooperative Global Atmospheric Data Integration Project. 2013, updated annually. Multi-laboratory compilation of synchronized 
 and gap-filled atmospheric carbon dioxide records for the period 1979-2012 (obspack_co2_1_GLOBALVIEW-CO2_2013_v1.0.4_2013-12-23). 
 Compiled by NOAA Global Monitoring Division: Boulder, Colorado, U.S.A. Data product accessed at http://dx.doi.org/10.3334/OBSPACK/1002
