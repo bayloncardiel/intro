@@ -18,10 +18,10 @@ Study of CO2 in Mexico City
 
 During the last decades, carbon dioxide (CO2) has exceeded the pre-industrial levels by about 40% mainly due to fossil fuel 
 combustion and land use change (Hartman et al., 2013), contributing more than any other gas to the positive total 
-radiative transfer of the Earth (Myhre et al., 2013) and placing it as the most import anthropogenic greenhouse gas.
+radiative transfer of the Earth (Myhre et al., 2013) and becoming the most important anthropogenic greenhouse gas.
 
+(Hablar de sources and sinks, explicar la importancia de mediciones y conectarlos con satellites y redes)
 (Estudios de CO2 en el mundo, TCCON, GOSAT)
-(GLOBALVIEW-CO2 mide CO2 in-situ)
 
 The importance of having datasets of CO2 concentrations around the world have been addressed by in-situ networks like 
 GLOBALVIEW-CO2 (GLOBALVIEW-CO2, 2013) and remote sensing networks like the Total Column Carbon Observing Network (TCCON).
@@ -30,7 +30,6 @@ in the near infrared (NIR) spectral region in order to retrieve column abundance
 to provide reliable, long-term validation datasets for satellite measurements and to improve current knowledge of the 
 carbon cycle therefore it has set a requirement of 0.25% precision in XCO2, in agreement with the findings of Rayner & O'Brien. 
 (Poner requerimientos y precision de TCCON)
-(Hablar de sources and sinks, explicar la importancia de mediciones y conectarlos con satellites y redes)
 (Estudios de CO2 en Mexico)
 
 Studies done to estimate the CO2 concentrations in Mexico City have been scarce, the first one was conducted during 
