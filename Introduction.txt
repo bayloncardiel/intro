@@ -5,26 +5,26 @@ satellite measurements. Add key studies describing CO2 measurements with solar a
 describe the TCCON network and requirements, list previous studies of CO2 measurements in Mex-
 ico.
 --------------------
-1er parrafo: Impact of CO2 in climate change, importance of observing these changes with reliable data sets
-2ndo parrafo: CO2 in the context of Mexico city
-
 Study of CO2 in Mexico City
 - Baez et al., 1988 .: CO2 concentrations in the highly polluted atmosphere of Mexico City
 - Grutter, 2003 .: Multi-Gas analysis of ambient air using FTIR spectroscopy over Mexico City
 - Velasco et al., 2005 .: Measurements of CO2 fluxes from the Mexico City urban landscape
 - Velasco et al., 2009 .: Eddy covariance flux measurements of pollutant gases in urban Mexico City
 
-(Primer parrafo)
+1er parrafo: Importancia de CO2 (2 fr), mediciones satelitales y en superficie (1 fr), misiones satelitales y GOSAT (2 fr),
+redes en superficie, NDACC y TCCON (2 fr)
 
 During the last decades, carbon dioxide (CO2) has exceeded the pre-industrial levels by about 40% mainly due to fossil fuel 
 combustion and land use change (Hartman et al., 2013), contributing more than any other gas to the positive total 
 radiative transfer of the Earth (Myhre et al., 2013) and becoming the most important anthropogenic greenhouse gas. The 
-quantification of the distribution and variation of CO2 sources and sinks can help to understand the anthropogenic 
+quantification of the spatial distribution and temporal variation of CO2 sources and sinks can help to understand the anthropogenic 
 contributions of CO2 to the carbon cycle. This task can be achieved by monitoring of the atmosphere using ground-based 
-and satellite observations.
+and satellite observations (e.g., Nassar et al., 2011, Basu et al., 2013). 
+Measurements of CO2 from space has been done by many satellite missions like ACE (Foucher et al., 2011), AIRS (Chahine et al., 2008), 
+IASI (Crevoisier et al., 2009), TES (Kulawik et al., 2010), SCIAMACHY (Reuter et al., 2011), OCO-2 (Wunch et al., 2016) 
+and GOSAT (Butz et al., 2011, Yoshida et al., 2011).
 
 (Satelites midiendo CO2, acabar con GOSAT)
-(Hablar de sources and sinks, explicar la importancia de mediciones y conectarlos con satellites y redes)
 (Estudios de CO2 en el mundo, TCCON, GOSAT)
 
 The importance of having datasets of CO2 concentrations around the world have been addressed by in-situ networks like 
@@ -33,7 +33,7 @@ TCCON is a worldwide ground-based network of Fourier transform spectrometers (FT
 in the near infrared (NIR) spectral region in order to retrieve column abundances of CO2, CH4 and other gases. TCCON aims
 to provide reliable, long-term validation datasets for satellite measurements and to improve current knowledge of the 
 carbon cycle therefore it has set a requirement of 0.25% precision in XCO2, in agreement with the findings of Rayner & O'Brien. 
-(Poner requerimientos y precision de TCCON)
+
 (Estudios de CO2 en Mexico)
 
 Studies done to estimate the CO2 concentrations in Mexico City have been scarce, the first one was conducted during 
@@ -44,30 +44,11 @@ concentrations during a regular day in the Mexico City Metropolitan Area (MCMA) 
 of the MCMA using a Nicolet Nexus interferometer with a resolution of 0.125 cm-1 and retrieving CO2 in the 723-766 
 spectral region. The emissions inventory for the MCMA estimated that the CO2 emissions for 2012 were 42.1 million of tons.
 
-(Leer intro de josue y de alex)
 (Incluir datos del inventario de emisiones de gases de efecto invernadero de ZMVM)
 (Leer intros de Messerschmidt y Dohe)
 
-
-
-(Referencia de GLOBALVIEW)
-Cooperative Global Atmospheric Data Integration Project. 2013, updated annually. Multi-laboratory compilation of synchronized 
-and gap-filled atmospheric carbon dioxide records for the period 1979-2012 (obspack_co2_1_GLOBALVIEW-CO2_2013_v1.0.4_2013-12-23). 
-Compiled by NOAA Global Monitoring Division: Boulder, Colorado, U.S.A. Data product accessed at http://dx.doi.org/10.3334/OBSPACK/1002
-
-(Referencia de SEMARNAR-INECC (2012))
-Mexico, quinta comunicacion nacional ante la convencion marco de las naciones unidas sobre el cambio climatico. Ciudad de Mexico: 
-Secretaria de Medio Ambiente y Recursos Naturales, Instituto Nacional de Ecologia y Cambio Climatico, Grupo Comunicarse, S.C.
-
-(Referencia IPCC Radiative Forcing)
-Myhre, G., D. Shindell, F.-M. Bréon, W. Collins, J. Fuglestvedt, J. Huang, D. Koch, J.-F. Lamarque, D. Lee, B. Mendoza, 
-T. Nakajima, A. Robock, G. Stephens, T. Takemura and H. Zhang, 2013: Anthropogenic and Natural Radiative Forcing. In: 
-Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of 
-the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, 
-J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United 
-Kingdom and New York, NY, USA.
-
-
+---------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 Intro de Comparisons of CH4 ground-based FTIR measurements near Saint Petersburg with GOSAT observations
 6 parrafos: 
 1er parrafo: Importancia de CH4 (2 fr), redes de medicion (1 fr), primera mision satelital (1 fr) y otros satelites midiendo CH4 
@@ -100,3 +81,203 @@ Intro de Mountaintop observation of CO2 absorption spectra using a short wavelen
 3er parrafo: GOSAT (6 fr)
 4to parrafo: En que consiste el paper (5 fr)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+(Referencia de GLOBALVIEW)
+Cooperative Global Atmospheric Data Integration Project. 2013, updated annually. Multi-laboratory compilation of synchronized 
+and gap-filled atmospheric carbon dioxide records for the period 1979-2012 (obspack_co2_1_GLOBALVIEW-CO2_2013_v1.0.4_2013-12-23). 
+Compiled by NOAA Global Monitoring Division: Boulder, Colorado, U.S.A. Data product accessed at http://dx.doi.org/10.3334/OBSPACK/1002
+
+(Referencia de SEMARNAR-INECC (2012))
+Mexico, quinta comunicacion nacional ante la convencion marco de las naciones unidas sobre el cambio climatico. Ciudad de Mexico: 
+Secretaria de Medio Ambiente y Recursos Naturales, Instituto Nacional de Ecologia y Cambio Climatico, Grupo Comunicarse, S.C.
+
+(Referencia IPCC Radiative Forcing)
+Myhre, G., D. Shindell, F.-M. Bréon, W. Collins, J. Fuglestvedt, J. Huang, D. Koch, J.-F. Lamarque, D. Lee, B. Mendoza, 
+T. Nakajima, A. Robock, G. Stephens, T. Takemura and H. Zhang, 2013: Anthropogenic and Natural Radiative Forcing. In: 
+Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of 
+the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, 
+J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United 
+Kingdom and New York, NY, USA.
+
+@article{Baez_1988,
+author = {A. BÁEZ and M. REYES and IRMA ROSAS and P. MOSINO},
+title = {CO2 concentrations in the highly polluted atmosphere of Mexico City},
+journal = {Atmósfera},
+volume = {1},
+number = {2},
+year = {1988},
+keywords = {},
+issn = {2395-8812},	
+url = {http://www.revistascca.unam.mx/atm/index.php/atm/article/view/8271}
+}
+
+@article{Grutter_2003,
+author = {MICHEL GRUTTER},
+title = {Multi-Gas analysis of ambient air using FTIR spectroscopy over Mexico City},
+journal = {Atmósfera},
+volume = {16},
+number = {1},
+year = {2003},
+keywords = {FTIR spectroscopy; air monitoring; México City},
+issn = {2395-8812},	
+url = {http://www.revistascca.unam.mx/atm/index.php/atm/article/view/8506}
+}
+
+@article{Velasco_2005,
+title = "Measurements of \{CO2\} fluxes from the Mexico City urban landscape ",
+journal = "Atmospheric Environment ",
+volume = "39",
+number = "38",
+pages = "7433 - 7446",
+year = "2005",
+note = "",
+issn = "1352-2310",
+doi = "http://dx.doi.org/10.1016/j.atmosenv.2005.08.038",
+url = "http://www.sciencedirect.com/science/article/pii/S1352231005008307",
+author = "Erik Velasco and Shelley Pressley and Eugene Allwine and Hal Westberg and Brian Lamb",
+keywords = "Carbon dioxide fluxes",
+keywords = "Eddy covariance",
+keywords = "Mexico",
+keywords = "Megacity "
+}
+
+@article {Chahine_2008,
+author = {Chahine, M. T. and Chen, Luke and Dimotakis, Paul and Jiang, Xun and Li, Qinbin and Olsen, Edward T. and Pagano, Thomas and Randerson, James and Yung, Yuk L.},
+title = {Satellite remote sounding of mid-tropospheric CO2},
+journal = {Geophysical Research Letters},
+volume = {35},
+number = {17},
+issn = {1944-8007},
+url = {http://dx.doi.org/10.1029/2008GL035022},
+doi = {10.1029/2008GL035022},
+pages = {n/a--n/a},
+keywords = {Middle atmosphere: composition and chemistry, Middle atmosphere: constituent transport and chemistry, Troposphere: composition and chemistry, Troposphere: constituent transport and chemistry, CO2, AIRS, infrared},
+year = {2008},
+note = {L17807},
+}
+
+@Article{Crevoisier_2009,
+AUTHOR = {Crevoisier, C. and Ch\'edin, A. and Matsueda, H. and Machida, T. and Armante, R. and Scott, N. A.},
+TITLE = {First year of upper tropospheric integrated content of CO<sub>2</sub> from IASI hyperspectral infrared observations},
+JOURNAL = {Atmospheric Chemistry and Physics},
+VOLUME = {9},
+YEAR = {2009},
+NUMBER = {14},
+PAGES = {4797--4810},
+URL = {http://www.atmos-chem-phys.net/9/4797/2009/},
+DOI = {10.5194/acp-9-4797-2009}
+}
+
+@Article{Velasco_2009,
+AUTHOR = {Velasco, E. and Pressley, S. and Grivicke, R. and Allwine, E. and Coons, T. and Foster, W. and Jobson, B. T. and Westberg, H. and Ramos, R. and Hern\'andez, F. and Molina, L. T. and Lamb, B.},
+TITLE = {Eddy covariance flux measurements of pollutant gases in urban Mexico City},
+JOURNAL = {Atmospheric Chemistry and Physics},
+VOLUME = {9},
+YEAR = {2009},
+NUMBER = {19},
+PAGES = {7325--7342},
+URL = {http://www.atmos-chem-phys.net/9/7325/2009/},
+DOI = {10.5194/acp-9-7325-2009}
+}
+
+@Article{Kulawik_2010,
+AUTHOR = {Kulawik, S. S. and Jones, D. B. A. and Nassar, R. and Irion, F. W. and Worden, J. R. and Bowman, K. W. and Machida, T. and Matsueda, H. and Sawa, Y. and Biraud, S. C. and Fischer, M. L. and Jacobson, A. R.},
+TITLE = {Characterization of Tropospheric Emission Spectrometer (TES) CO<sub>2</sub> for carbon cycle science},
+JOURNAL = {Atmospheric Chemistry and Physics},
+VOLUME = {10},
+YEAR = {2010},
+NUMBER = {12},
+PAGES = {5601--5623},
+URL = {http://www.atmos-chem-phys.net/10/5601/2010/},
+DOI = {10.5194/acp-10-5601-2010}
+}
+
+@article {Butz_2011,
+author = {Butz, A. and Guerlet, S. and Hasekamp, O. and Schepers, D. and Galli, A. and Aben, I. and Frankenberg, C. and Hartmann, J.-M. and Tran, H. and Kuze, A. and Keppel-Aleks, G. and Toon, G. and Wunch, D. and Wennberg, P. and Deutscher, N. and Griffith, D. and Macatangay, R. and Messerschmidt, J. and Notholt, J. and Warneke, T.},
+title = {Toward accurate CO2 and CH4 observations from GOSAT},
+journal = {Geophysical Research Letters},
+volume = {38},
+number = {14},
+issn = {1944-8007},
+url = {http://dx.doi.org/10.1029/2011GL047888},
+doi = {10.1029/2011GL047888},
+pages = {n/a--n/a},
+keywords = {Biosphere/atmosphere interactions, Constituent sources and sinks, Radiation: transmission and scattering, Troposphere: composition and chemistry, Remote sensing, GOSAT, carbon dioxide, methane, satellite remote sensing},
+year = {2011},
+note = {L14812},
+}
+
+@article {Reuter_2011,
+author = {Reuter, M. and Bovensmann, H. and Buchwitz, M. and Burrows, J. P. and Connor, B. J. and Deutscher, N. M. and Griffith, D. W. T. and Heymann, J. and Keppel-Aleks, G. and Messerschmidt, J. and Notholt, J. and Petri, C. and Robinson, J. and Schneising, O. and Sherlock, V. and Velazco, V. and Warneke, T. and Wennberg, P. O. and Wunch, D.},
+title = {Retrieval of atmospheric CO2 with enhanced accuracy and precision from SCIAMACHY: Validation with FTS measurements and comparison with model results},
+journal = {Journal of Geophysical Research: Atmospheres},
+volume = {116},
+number = {D4},
+issn = {2156-2202},
+url = {http://dx.doi.org/10.1029/2010JD015047},
+doi = {10.1029/2010JD015047},
+pages = {n/a--n/a},
+keywords = {Troposphere: composition and chemistry, carbon dioxide, CO2, SCIAMACHY, validation, satellite, atmosphere},
+year = {2011},
+note = {D04301},
+}
+
+@Article{Foucher_2011,
+AUTHOR = {Foucher, P. Y. and Ch\'edin, A. and Armante, R. and Boone, C. and Crevoisier, C. and Bernath, P.},
+TITLE = {Carbon dioxide atmospheric vertical profiles retrieved from  space observation using ACE-FTS solar occultation instrument},
+JOURNAL = {Atmospheric Chemistry and Physics},
+VOLUME = {11},
+YEAR = {2011},
+NUMBER = {6},
+PAGES = {2455--2470},
+URL = {http://www.atmos-chem-phys.net/11/2455/2011/},
+DOI = {10.5194/acp-11-2455-2011}
+}
+
+@Article{Nassar_2011,
+AUTHOR = {Nassar, R. and Jones, D. B. A. and Kulawik, S. S. and Worden, J. R. and Bowman, K. W. and Andres, R. J. and Suntharalingam, P. and Chen, J. M. and Brenninkmeijer, C. A. M. and Schuck, T. J. and Conway, T. J. and Worthy, D. E.},
+TITLE = {Inverse modeling of CO<sub>2</sub> sources and sinks using satellite observations of CO<sub>2</sub> from TES and surface flask measurements},
+JOURNAL = {Atmospheric Chemistry and Physics},
+VOLUME = {11},
+YEAR = {2011},
+NUMBER = {12},
+PAGES = {6029--6047},
+URL = {http://www.atmos-chem-phys.net/11/6029/2011/},
+DOI = {10.5194/acp-11-6029-2011}
+}
+
+@Article{Yoshida_2011,
+AUTHOR = {Yoshida, Y. and Ota, Y. and Eguchi, N. and Kikuchi, N. and Nobuta, K. and Tran, H. and Morino, I. and Yokota, T.},
+TITLE = {Retrieval algorithm for CO<sub>2</sub> and CH<sub>4</sub> column abundances from short-wavelength infrared spectral observations by the Greenhouse gases observing satellite},
+JOURNAL = {Atmospheric Measurement Techniques},
+VOLUME = {4},
+YEAR = {2011},
+NUMBER = {4},
+PAGES = {717--734},
+URL = {http://www.atmos-meas-tech.net/4/717/2011/},
+DOI = {10.5194/amt-4-717-2011}
+}
+
+@Article{Basu_2013,
+AUTHOR = {Basu, S. and Guerlet, S. and Butz, A. and Houweling, S. and Hasekamp, O. and Aben, I. and Krummel, P. and Steele, P. and Langenfelds, R. and Torn, M. and Biraud, S. and Stephens, B. and Andrews, A. and Worthy, D.},
+TITLE = {Global CO<sub>2</sub> fluxes estimated from GOSAT retrievals of total column CO<sub>2</sub>},
+JOURNAL = {Atmospheric Chemistry and Physics},
+VOLUME = {13},
+YEAR = {2013},
+NUMBER = {17},
+PAGES = {8695--8717},
+URL = {http://www.atmos-chem-phys.net/13/8695/2013/},
+DOI = {10.5194/acp-13-8695-2013}
+}
+
+@Article{Wunch_2016,
+AUTHOR = {Wunch, D. and Wennberg, P. O. and Osterman, G. and Fisher, B. and Naylor, B. and Roehl, C. M. and O'Dell, C. and Mandrake, L. and Viatte, C. and Griffith, D. W. and Deutscher, N. M. and Velazco, V. A. and Notholt, J. and Warneke, T. and Petri, C. and De Maziere, M. and Sha, M. K. and Sussmann, R. and Rettinger, M. and Pollard, D. and Robinson, J. and Morino, I. and Uchino, O. and Hase, F. and Blumenstock, T. and Kiel, M. and Feist, D. G. and Arnold, S. G. and Strong, K. and Mendonca, J. and Kivi, R. and Heikkinen, P. and Iraci, L. and Podolske, J. and Hillyard, P. W. and Kawakami, S. and Dubey, M. K. and Parker, H. A. and Sepulveda, E. and Rodriguez, O. E. G. and Te, Y. and Jeseck, P. and Gunson, M. R. and Crisp, D. and Eldering, A.},
+TITLE = {Comparisons of the Orbiting Carbon Observatory-2 (OCO-2) X$_\chem{CO_{2}}$ measurements with TCCON},
+JOURNAL = {Atmospheric Measurement Techniques Discussions},
+VOLUME = {2016},
+YEAR = {2016},
+PAGES = {1--45},
+URL = {http://www.atmos-meas-tech-discuss.net/amt-2016-227/},
+DOI = {10.5194/amt-2016-227}
+}
