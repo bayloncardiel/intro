@@ -1,10 +1,12 @@
---------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 State the impact of changes in CO2 with the recent climate change, mention the importance of ob-
 serving these changes with reliable data sets around the world, both from ground networks and
 satellite measurements. Add key studies describing CO2 measurements with solar absorption FTIR,
 describe the TCCON network and requirements, list previous studies of CO2 measurements in Mex-
 ico.
---------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 Study of CO2 in Mexico City
 - Baez et al., 1988 .: CO2 concentrations in the highly polluted atmosphere of Mexico City
 - Grutter, 2003 .: Multi-Gas analysis of ambient air using FTIR spectroscopy over Mexico City
@@ -19,10 +21,9 @@ combustion and land use change (Hartman et al., 2013), contributing more than an
 radiative transfer of the Earth (Myhre et al., 2013) and becoming the most important anthropogenic greenhouse gas. The 
 quantification of the spatial distribution and temporal variation of CO2 sources and sinks can help to understand the anthropogenic 
 contributions of CO2 to the carbon cycle. This task can be achieved by monitoring of the atmosphere using ground-based 
-and satellite observations (e.g., Nassar et al., 2011, Basu et al., 2013). 
-Measurements of CO2 from space has been done by many satellite missions like ACE (Foucher et al., 2011), AIRS (Chahine et al., 2008), 
+and satellite observations (e.g., Nassar et al., 2011, Basu et al., 2013). Measurements of CO2 from space have been done by many satellite missions like ACE (Foucher et al., 2011), AIRS (Chahine et al., 2008), 
 IASI (Crevoisier et al., 2009), TES (Kulawik et al., 2010), SCIAMACHY (Reuter et al., 2011), OCO-2 (Wunch et al., 2016) 
-and GOSAT (Butz et al., 2011, Yoshida et al., 2011).
+and GOSAT (Butz et al., 2011, Yoshida et al., 2011). 
 
 (Satelites midiendo CO2, acabar con GOSAT)
 (Estudios de CO2 en el mundo, TCCON, GOSAT)
