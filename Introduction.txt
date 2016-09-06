@@ -18,7 +18,7 @@ Study of CO2 in Mexico City
 
 During the last decades, carbon dioxide (CO2) has exceeded the pre-industrial levels by about 40% mainly due to fossil fuel 
 combustion and land use change (Hartman et al., 2013), contributing more than any other gas to the positive total 
-radiative transfer of the Earth (Myhre et al., 2013) and becoming the most important anthropogenic greenhouse gas.
+radiative transfer of the Earth (Myhre et al., 2013) and becoming the most important anthropogenic greenhouse gas. The quantification of the distribution and variation of CO2 sources and sinks can help to understand the anthropogenic contributions of CO2 to the carbon cycle. This can be achieved by the monitoring  
 
 (Hablar de sources and sinks, explicar la importancia de mediciones y conectarlos con satellites y redes)
 (Estudios de CO2 en el mundo, TCCON, GOSAT)
