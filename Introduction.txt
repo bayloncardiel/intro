@@ -13,40 +13,48 @@ Study of CO2 in Mexico City
 - Velasco et al., 2005 .: Measurements of CO2 fluxes from the Mexico City urban landscape
 - Velasco et al., 2009 .: Eddy covariance flux measurements of pollutant gases in urban Mexico City
 
-1er parrafo: Importancia de CO2 (2 fr), mediciones satelitales y en superficie (1 fr), misiones satelitales y GOSAT (2 fr),
-redes en superficie, NDACC y TCCON (2 fr)
+* parrafo: Importancia de CO2 (2 fr), mediciones satelitales y en superficie (1 fr), redes en superficie y TCCON (3 fr), 
+misiones satelitales y GOSAT (2 fr),
 
-During the last decades, carbon dioxide (CO2) has exceeded the pre-industrial levels by about 40% mainly due to fossil fuel 
-combustion and land use change (Hartman et al., 2013), contributing more than any other gas to the positive total 
-radiative transfer of the Earth (Myhre et al., 2013) and becoming the most important anthropogenic greenhouse gas. The 
-quantification of the spatial distribution and temporal variation of CO2 sources and sinks can help to understand the anthropogenic 
-contributions of CO2 to the carbon cycle. This task can be achieved by monitoring the atmosphere using ground-based 
-and satellite observations (e.g., Nassar et al., 2011, Basu et al., 2013). Measurements of CO2 from space have been done by many satellite missions like 
-ACE (Foucher et al., 2011), AIRS (Chahine et al., 2008), IASI (Crevoisier et al., 2009), TES (Kulawik et al., 2010), SCIAMACHY (Reuter et al., 2011), 
-OCO-2 (Wunch et al., 2016) and GOSAT (Butz et al., 2011, Yoshida et al., 2011). 
+During the last decades, carbon dioxide (CO$_2$) has exceeded the pre-industrial levels by about 40% mainly due to fossil fuel 
+combustion and land use change \citep{Hartman_2013}, contributing more than any other gas to the positive total 
+radiative transfer of the Earth \citep{Myhre_2013} and becoming the most important anthropogenic greenhouse gas. The 
+quantification of the spatial distribution and temporal variation of CO$_2$ sources and sinks can help to understand the anthropogenic 
+contributions of CO$_2$ to the carbon cycle. This task can be achieved by monitoring the atmosphere using ground-based 
+and satellite observations. Ground-based networks like \citet{GLOBALVIEW-CO2_2013} or the Total Column Carbon Observing Network 
+(TCCON) provide datasets of CO$_2$ concentrations around the world. TCCON is a network of Fourier transform spectrometers (FTS) that 
+record solar absorption spectra in the near infrared (NIR) spectral region in order to retrieve column-averaged dry-air mole fractions 
+of CO$_2$ (X$_{CO_2}$), CH$_4$ (X$_{CH_4}$) and other gases. TCCON aims to provide reliable, long-term validation datasets for satellite measurements and to 
+improve current knowledge of the carbon cycle therefore it has set a requirement of 0.25% precision in XCO2, in agreement with the findings of \citet{Rayner_2010}. 
+Measurements of CO$_2$ from space have been done by many satellite missions like ACE \citep{Foucher_2011}, AIRS \citep{Chahine_2008},
+IASI \citep{Crevoisier_2009}, TES \citep{Kulawik_2010}, SCIAMACHY \citep{Reuter_2011} and OCO-2 \citep{Wunch_2016} with the last two 
+mission using TCCON data for validation.
 
-(Satelites midiendo CO2, acabar con GOSAT)
-(Estudios de CO2 en el mundo, TCCON, GOSAT)
-
-The importance of having datasets of CO2 concentrations around the world have been addressed by in-situ networks like 
-GLOBALVIEW-CO2 (GLOBALVIEW-CO2, 2013) and remote sensing networks like the Total Column Carbon Observing Network (TCCON).
-TCCON is a worldwide ground-based network of Fourier transform spectrometers (FTS) that records solar absorption spectra 
-in the near infrared (NIR) spectral region in order to retrieve column abundances of CO2, CH4 and other gases. TCCON aims
-to provide reliable, long-term validation datasets for satellite measurements and to improve current knowledge of the 
-carbon cycle therefore it has set a requirement of 0.25% precision in XCO2, in agreement with the findings of Rayner & O'Brien. 
-
-(Estudios de CO2 en Mexico)
+The Greenhouse Gases Observing Satellite (GOSAT) was launched on January 2009 as a joint project
+between the Japanese Aerospace Exploration Agency (JAXA), the National Institute for Environmental
+Studies (NIES) and the Ministry of the Environment (MOE). It has been measuring gas absorption
+spectra from solar radiation reflected on the Earth's surface in the short wave infrared range using the TANSO-
+FTS instrument (Thermal and Near Infrared Sensor for Carbon Observation Fourier-Transform Spectrometer) \citep{Kuze_2009},
+reporting X$_{CO_2}$ X$_{CH_4}$ from these measurements \citep[e.g.,][]{Yoshida_2011,Parker_2011,Hammerling_2012}.
+ 
+* parrafo: Estudios de CO2 en Mexico (3 fr)
 
 Studies done to estimate the CO2 concentrations in Mexico City have been scarce, the first one was conducted during 
 1981 and 1982 and estimated the diurnal and seasonal variation taking air samples in different parts of the city 
-(Baez et al., 1988). Two different campaigns (MCMA-2003, MILAGRO/MCMA-2006) have estimated the CO2 fluxes and 
+\citep{Baez_1988}. Two different campaigns (MCMA-2003, MILAGRO/MCMA-2006) have estimated the CO2 fluxes and 
 concentrations during a regular day in the Mexico City Metropolitan Area (MCMA) using the eddy covariance technique 
-(Velasco et al., 2005, Velasco et al., 2009). The first study using a FTS was done during September 2001 in the south 
+\citep{Velasco_2005, Velasco_2009}. The first study using a FTS was done during September 2001 in the south 
 of the MCMA using a Nicolet Nexus interferometer with a resolution of 0.125 cm-1 and retrieving CO2 in the 723-766 
-spectral region. The emissions inventory for the MCMA estimated that the CO2 emissions for 2012 were 42.1 million of tons.
+spectral region \citep{Grutter_2003}. 
 
-(Incluir datos del inventario de emisiones de gases de efecto invernadero de ZMVM)
-(Leer intros de Messerschmidt y Dohe)
+* parrafo: Donde y desde cuando se mide (2 fr), mencionar que estacion es parte de NDACC (1 fr), en que consiste el paper(2 fr)
+
+The Altzomoni site is located in the southeast of the MCMA at a height of almost 4000m above sea level. Measurements of NIR 
+and MIR spectra have been conducted since 2012 using a Bruker IFS 120/5 HR. The site is part of the NDACC network since 2015 
+and has been reporting vertical columns of gases such as O3, CO, N2O, CH4. 
+FALTA PONER EN QUE CONSISTE EL PAPER
+
+(Incluir datos del inventario de emisiones de gases de efecto invernadero de ZMVM, "The emissions inventory for the MCMA estimated that the CO2 emissions for 2012 were 42.1 million of tons.")
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -84,6 +92,7 @@ Intro de Mountaintop observation of CO2 absorption spectra using a short wavelen
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+FALTA INCLUIR CITA DE GLOBALVIEW EN BIBTEX
 (Referencia de GLOBALVIEW)
 Cooperative Global Atmospheric Data Integration Project. 2013, updated annually. Multi-laboratory compilation of synchronized 
 and gap-filled atmospheric carbon dioxide records for the period 1979-2012 (obspack_co2_1_GLOBALVIEW-CO2_2013_v1.0.4_2013-12-23). 
@@ -92,14 +101,6 @@ Compiled by NOAA Global Monitoring Division: Boulder, Colorado, U.S.A. Data prod
 (Referencia de SEMARNAR-INECC (2012))
 Mexico, quinta comunicacion nacional ante la convencion marco de las naciones unidas sobre el cambio climatico. Ciudad de Mexico: 
 Secretaria de Medio Ambiente y Recursos Naturales, Instituto Nacional de Ecologia y Cambio Climatico, Grupo Comunicarse, S.C.
-
-(Referencia IPCC Radiative Forcing)
-Myhre, G., D. Shindell, F.-M. Bréon, W. Collins, J. Fuglestvedt, J. Huang, D. Koch, J.-F. Lamarque, D. Lee, B. Mendoza, 
-T. Nakajima, A. Robock, G. Stephens, T. Takemura and H. Zhang, 2013: Anthropogenic and Natural Radiative Forcing. In: 
-Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of 
-the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, 
-J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United 
-Kingdom and New York, NY, USA.
 
 @article{Baez_1988,
 author = {A. BÁEZ and M. REYES and IRMA ROSAS and P. MOSINO},
@@ -194,6 +195,20 @@ URL = {http://www.atmos-chem-phys.net/10/5601/2010/},
 DOI = {10.5194/acp-10-5601-2010}
 }
 
+@article {Rayner_2001,
+author = {Rayner, P. J. and O'Brien, D. M.},
+title = {The utility of remotely sensed CO2 concentration data in surface source inversions},
+journal = {Geophysical Research Letters},
+volume = {28},
+number = {1},
+issn = {1944-8007},
+url = {http://dx.doi.org/10.1029/2000GL011912},
+doi = {10.1029/2000GL011912},
+pages = {175--178},
+keywords = {Atmospheric Composition and Structure: Constituent sources and sinks, Atmospheric Composition and Structure: Troposphere—composition and chemistry, Atmospheric Composition and Structure: Instruments and techniques},
+year = {2001},
+}
+
 @article {Butz_2011,
 author = {Butz, A. and Guerlet, S. and Hasekamp, O. and Schepers, D. and Galli, A. and Aben, I. and Frankenberg, C. and Hartmann, J.-M. and Tran, H. and Kuze, A. and Keppel-Aleks, G. and Toon, G. and Wunch, D. and Wennberg, P. and Deutscher, N. and Griffith, D. and Macatangay, R. and Messerschmidt, J. and Notholt, J. and Warneke, T.},
 title = {Toward accurate CO2 and CH4 observations from GOSAT},
@@ -270,6 +285,38 @@ NUMBER = {17},
 PAGES = {8695--8717},
 URL = {http://www.atmos-chem-phys.net/13/8695/2013/},
 DOI = {10.5194/acp-13-8695-2013}
+}
+
+@inbook{Hartmann_2013
+   author = {Hartmann, D.L. and Klein Tank, A.M.G. and Rusticucci, M. and Alexander, L.V. and Brönnimann, S. and Charabi, Y. and Dentener, F.J. and Dlugokencky, E.J. and Easterling, D.R. and Kaplan, A. and Soden, B.J. and Thorne, P.W. and Wild, M. and Zhai, P.M.},
+   title = {Observations: Atmosphere and Surface},
+   booktitle = {Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change},
+   editor = {Stocker, T.F. and Qin, D. and Plattner, G.-K. and Tignor, M. and Allen, S.K. and Boschung, J. and Nauels, A. and Xia, Y. and Bex, V. and Midgley, P.M.},
+   publisher = {Cambridge University Press},
+   address = {Cambridge, United Kingdom and New York, NY, USA},
+   chapter = {2},
+   pages = {159–254},
+   ISBN = {ISBN 978-1-107-66182-0},
+   DOI = {10.1017/CBO9781107415324.008},
+   url = {www.climatechange2013.org},
+   year = {2013},
+   type = {Book Section}
+}
+
+@inbook{Myhre_2013
+   author = {Myhre, G. and Shindell, D. and Bréon, F.-M. and Collins, W. and Fuglestvedt, J. and Huang, J. and Koch, D. and Lamarque, J.-F. and Lee, D. and Mendoza, B. and Nakajima, T. and Robock, A. and Stephens, G. and Takemura, T. and Zhang, H.},
+   title = {Anthropogenic and Natural Radiative Forcing},
+   booktitle = {Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change},
+   editor = {Stocker, T.F. and Qin, D. and Plattner, G.-K. and Tignor, M. and Allen, S.K. and Boschung, J. and Nauels, A. and Xia, Y. and Bex, V. and Midgley, P.M.},
+   publisher = {Cambridge University Press},
+   address = {Cambridge, United Kingdom and New York, NY, USA},
+   chapter = {8},
+   pages = {659–740},
+   ISBN = {ISBN 978-1-107-66182-0},
+   DOI = {10.1017/CBO9781107415324.018},
+   url = {www.climatechange2013.org},
+   year = {2013},
+   type = {Book Section}
 }
 
 @Article{Wunch_2016,
