@@ -20,10 +20,10 @@ During the last decades, carbon dioxide (CO2) has exceeded the pre-industrial le
 combustion and land use change (Hartman et al., 2013), contributing more than any other gas to the positive total 
 radiative transfer of the Earth (Myhre et al., 2013) and becoming the most important anthropogenic greenhouse gas. The 
 quantification of the spatial distribution and temporal variation of CO2 sources and sinks can help to understand the anthropogenic 
-contributions of CO2 to the carbon cycle. This task can be achieved by monitoring of the atmosphere using ground-based 
-and satellite observations (e.g., Nassar et al., 2011, Basu et al., 2013). Measurements of CO2 from space have been done by many satellite missions like ACE (Foucher et al., 2011), AIRS (Chahine et al., 2008), 
-IASI (Crevoisier et al., 2009), TES (Kulawik et al., 2010), SCIAMACHY (Reuter et al., 2011), OCO-2 (Wunch et al., 2016) 
-and GOSAT (Butz et al., 2011, Yoshida et al., 2011). 
+contributions of CO2 to the carbon cycle. This task can be achieved by monitoring the atmosphere using ground-based 
+and satellite observations (e.g., Nassar et al., 2011, Basu et al., 2013). Measurements of CO2 from space have been done by many satellite missions like 
+ACE (Foucher et al., 2011), AIRS (Chahine et al., 2008), IASI (Crevoisier et al., 2009), TES (Kulawik et al., 2010), SCIAMACHY (Reuter et al., 2011), 
+OCO-2 (Wunch et al., 2016) and GOSAT (Butz et al., 2011, Yoshida et al., 2011). 
 
 (Satelites midiendo CO2, acabar con GOSAT)
 (Estudios de CO2 en el mundo, TCCON, GOSAT)
@@ -71,7 +71,7 @@ carbon cycle.", redes de FTIR, TCCON (3 fr), por que usar columnas y XCO2? (1 fr
 Intro de Tropospheric and total ozone columns over Paris (France) measured using medium-resolution ground-based solar-absorption
 Fourier-transform infrared spectroscopy
 2 parrafos:
-1er parrafo: Importancia de O3 (3 fr), para que medir O3 (1 fr), dificultades (2 fr), tecnicas de persepcion remota para el O3 (1 fr),
+1er parrafo: Importancia de O3 (3 fr), para que medir O3 (1 fr), dificultades (2 fr), tecnicas de percepcion remota para el O3 (1 fr),
 donde y desde cuando se mide (2 fr), ventajas y desventajas de high res y med res FTIRs (6 fr)
 2ndo parrafo: En que consiste el paper (4 fr)
 
