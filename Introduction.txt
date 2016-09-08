@@ -16,43 +16,46 @@ Study of CO2 in Mexico City
 * parrafo: Importancia de CO2 (2 fr), mediciones satelitales y en superficie (1 fr), redes en superficie y TCCON (3 fr), 
 misiones satelitales y GOSAT (2 fr),
 
-During the last decades, carbon dioxide (CO$_2$) has exceeded the pre-industrial levels by about 40% mainly due to fossil fuel 
-combustion and land use change \citep{Hartman_2013}, contributing more than any other gas to the positive total 
+During the last decades, carbon dioxide (CO$_2$) has exceeded the pre-industrial levels by about 40\% mainly due to fossil fuel 
+combustion and land use change \citep{Hartmann_2013}, contributing more than any other gas to the positive total 
 radiative transfer of the Earth \citep{Myhre_2013} and becoming the most important anthropogenic greenhouse gas. The 
 quantification of the spatial distribution and temporal variation of CO$_2$ sources and sinks can help to understand the anthropogenic 
 contributions of CO$_2$ to the carbon cycle. This task can be achieved by monitoring the atmosphere using ground-based 
-and satellite observations. Ground-based networks like \citet{GLOBALVIEW-CO2_2013} or the Total Column Carbon Observing Network 
+and satellite observations. Ground-based networks like \citet{GLOBALVIEW_2013} or the Total Column Carbon Observing Network 
 (TCCON) provide datasets of CO$_2$ concentrations around the world. TCCON is a network of Fourier transform spectrometers (FTS) that 
 record solar absorption spectra in the near infrared (NIR) spectral region in order to retrieve column-averaged dry-air mole fractions 
-of CO$_2$ (X$_{CO_2}$), CH$_4$ (X$_{CH_4}$) and other gases. TCCON aims to provide reliable, long-term validation datasets for satellite measurements and to 
-improve current knowledge of the carbon cycle therefore it has set a requirement of 0.25% precision in XCO2, in agreement with the findings of \citet{Rayner_2010}. 
+of CO$_2$ (X$_{CO_2}$) and other molecules that absorb in the NIR \citep{Wunch_2011}. TCCON aims to provide reliable, long-term validation datasets for satellite measurements and to 
+improve current knowledge of the carbon cycle therefore it has set a requirement of 0.25\% precision in X$_{CO_2}$, in agreement with the findings of \citet{Rayner_2001}. 
 Measurements of CO$_2$ from space have been done by many satellite missions like ACE \citep{Foucher_2011}, AIRS \citep{Chahine_2008},
-IASI \citep{Crevoisier_2009}, TES \citep{Kulawik_2010}, SCIAMACHY \citep{Reuter_2011} and OCO-2 \citep{Wunch_2016} with the last two 
-mission using TCCON data for validation.
+IASI \citep{Crevoisier_2009}, TES \citep{Kulawik_2010}, SCIAMACHY \citep{Reuter_2011} and OCO-2 \citep{Wunch_2016}, with the last two mission using TCCON data for validation.
 
-The Greenhouse Gases Observing Satellite (GOSAT) was launched on January 2009 as a joint project
+Another effort of measuring CO$_2$ from space comes from the Greenhouse Gases Observing Satellite (GOSAT) which was launched on January 2009 as a joint project
 between the Japanese Aerospace Exploration Agency (JAXA), the National Institute for Environmental
 Studies (NIES) and the Ministry of the Environment (MOE). It has been measuring gas absorption
 spectra from solar radiation reflected on the Earth's surface in the short wave infrared range using the TANSO-
-FTS instrument (Thermal and Near Infrared Sensor for Carbon Observation Fourier-Transform Spectrometer) \citep{Kuze_2009},
-reporting X$_{CO_2}$ X$_{CH_4}$ from these measurements \citep[e.g.,][]{Yoshida_2011,Parker_2011,Hammerling_2012}.
+FTS instrument (Thermal and Near Infrared Sensor for Carbon Observation Fourier-Transform Spectrometer) \citep{Kuze_2009} and reporting X$_{CO_2}$ 
+from these measurements \citep[e.g.,][]{Yoshida_2011,Parker_2011,Hammerling_2012}. Numerous studies for validating the GOSAT products 
+using TCCON data have been conducted \citep[e.g.,][]{Morino_2011,Yoshida_2013,Inoue_2014,Inoue_2016}. 
  
-* parrafo: Estudios de CO2 en Mexico (3 fr)
+* parrafo: Megaciudades, contaminacion y Ciudad de Mexico (3 fr), Estudios de CO2 en Mexico (3 fr)
 
-Studies done to estimate the CO2 concentrations in Mexico City have been scarce, the first one was conducted during 
+Studies done to estimate the CO$_2$ concentrations in Mexico City have been scarce, the first one was conducted during 
 1981 and 1982 and estimated the diurnal and seasonal variation taking air samples in different parts of the city 
-\citep{Baez_1988}. Two different campaigns (MCMA-2003, MILAGRO/MCMA-2006) have estimated the CO2 fluxes and 
+\citep{Baez_1988}. Two different campaigns (MCMA-2003, MILAGRO/MCMA-2006) have estimated the CO$_2$ fluxes and 
 concentrations during a regular day in the Mexico City Metropolitan Area (MCMA) using the eddy covariance technique 
 \citep{Velasco_2005, Velasco_2009}. The first study using a FTS was done during September 2001 in the south 
-of the MCMA using a Nicolet Nexus interferometer with a resolution of 0.125 cm-1 and retrieving CO2 in the 723-766 
+of the MCMA using a Nicolet Nexus interferometer with a resolution of 0.125 cm-1 and retrieving CO$_2$ in the 723-766 
 spectral region \citep{Grutter_2003}. 
 
 * parrafo: Donde y desde cuando se mide (2 fr), mencionar que estacion es parte de NDACC (1 fr), en que consiste el paper(2 fr)
 
 The Altzomoni site is located in the southeast of the MCMA at a height of almost 4000m above sea level. Measurements of NIR 
 and MIR spectra have been conducted since 2012 using a Bruker IFS 120/5 HR. The site is part of the NDACC network since 2015 
-and has been reporting vertical columns of gases such as O3, CO, N2O, CH4. 
-FALTA PONER EN QUE CONSISTE EL PAPER
+and has been reporting vertical columns of gases such as O$_3$, CO, N$_2$O, CH$_4$. This paper presents X$_{CO_2}$
+retrieved from NIR spectra measured from December 2012 to December 2015 in the Altzomoni site. Section~\ref{subsec:Altz} describes the configuration used in the measurement of the NIR spectra. How these spectra were analyzed and the time series of X$_{CO_2}$ for the site are presented in section~\ref{subsec:Measurements} 
+An error estimation and the assessment of the precision of X$_{CO_2}$ is performed in section~\ref{subsec:Errors}.
+Section~\ref{sec:GOSAT} contains a comparison done using the X$_{CO_2}$ product from GOSAT.
+
 
 (Incluir datos del inventario de emisiones de gases de efecto invernadero de ZMVM, "The emissions inventory for the MCMA estimated that the CO2 emissions for 2012 were 42.1 million of tons.")
 
@@ -92,20 +95,15 @@ Intro de Mountaintop observation of CO2 absorption spectra using a short wavelen
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-FALTA INCLUIR CITA DE GLOBALVIEW EN BIBTEX
-(Referencia de GLOBALVIEW)
-Cooperative Global Atmospheric Data Integration Project. 2013, updated annually. Multi-laboratory compilation of synchronized 
-and gap-filled atmospheric carbon dioxide records for the period 1979-2012 (obspack_co2_1_GLOBALVIEW-CO2_2013_v1.0.4_2013-12-23). 
-Compiled by NOAA Global Monitoring Division: Boulder, Colorado, U.S.A. Data product accessed at http://dx.doi.org/10.3334/OBSPACK/1002
 
 (Referencia de SEMARNAR-INECC (2012))
 Mexico, quinta comunicacion nacional ante la convencion marco de las naciones unidas sobre el cambio climatico. Ciudad de Mexico: 
 Secretaria de Medio Ambiente y Recursos Naturales, Instituto Nacional de Ecologia y Cambio Climatico, Grupo Comunicarse, S.C.
 
 @article{Baez_1988,
-author = {A. BÁEZ and M. REYES and IRMA ROSAS and P. MOSINO},
+author = {A. B\'aez and M. Reyes and Irma Rosas and P. Mosino},
 title = {CO2 concentrations in the highly polluted atmosphere of Mexico City},
-journal = {Atmósfera},
+journal = {Atm\'osfera},
 volume = {1},
 number = {2},
 year = {1988},
@@ -114,14 +112,28 @@ issn = {2395-8812},
 url = {http://www.revistascca.unam.mx/atm/index.php/atm/article/view/8271}
 }
 
+@article {Rayner_2001,
+author = {Rayner, P. J. and O'Brien, D. M.},
+title = {The utility of remotely sensed CO2 concentration data in surface source inversions},
+journal = {Geophysical Research Letters},
+volume = {28},
+number = {1},
+issn = {1944-8007},
+url = {http://dx.doi.org/10.1029/2000GL011912},
+doi = {10.1029/2000GL011912},
+pages = {175--178},
+keywords = {Atmospheric Composition and Structure: Constituent sources and sinks, Atmospheric Composition and Structure: Troposphere—composition and chemistry, Atmospheric Composition and Structure: Instruments and techniques},
+year = {2001},
+}
+
 @article{Grutter_2003,
-author = {MICHEL GRUTTER},
+author = {Michel Grutter},
 title = {Multi-Gas analysis of ambient air using FTIR spectroscopy over Mexico City},
-journal = {Atmósfera},
+journal = {Atm\'osfera},
 volume = {16},
 number = {1},
 year = {2003},
-keywords = {FTIR spectroscopy; air monitoring; México City},
+keywords = {FTIR spectroscopy; air monitoring; M\'exico City},
 issn = {2395-8812},	
 url = {http://www.revistascca.unam.mx/atm/index.php/atm/article/view/8506}
 }
@@ -195,20 +207,6 @@ URL = {http://www.atmos-chem-phys.net/10/5601/2010/},
 DOI = {10.5194/acp-10-5601-2010}
 }
 
-@article {Rayner_2001,
-author = {Rayner, P. J. and O'Brien, D. M.},
-title = {The utility of remotely sensed CO2 concentration data in surface source inversions},
-journal = {Geophysical Research Letters},
-volume = {28},
-number = {1},
-issn = {1944-8007},
-url = {http://dx.doi.org/10.1029/2000GL011912},
-doi = {10.1029/2000GL011912},
-pages = {175--178},
-keywords = {Atmospheric Composition and Structure: Constituent sources and sinks, Atmospheric Composition and Structure: Troposphere—composition and chemistry, Atmospheric Composition and Structure: Instruments and techniques},
-year = {2001},
-}
-
 @article {Butz_2011,
 author = {Butz, A. and Guerlet, S. and Hasekamp, O. and Schepers, D. and Galli, A. and Aben, I. and Frankenberg, C. and Hartmann, J.-M. and Tran, H. and Kuze, A. and Keppel-Aleks, G. and Toon, G. and Wunch, D. and Wennberg, P. and Deutscher, N. and Griffith, D. and Macatangay, R. and Messerschmidt, J. and Notholt, J. and Warneke, T.},
 title = {Toward accurate CO2 and CH4 observations from GOSAT},
@@ -251,16 +249,16 @@ URL = {http://www.atmos-chem-phys.net/11/2455/2011/},
 DOI = {10.5194/acp-11-2455-2011}
 }
 
-@Article{Nassar_2011,
-AUTHOR = {Nassar, R. and Jones, D. B. A. and Kulawik, S. S. and Worden, J. R. and Bowman, K. W. and Andres, R. J. and Suntharalingam, P. and Chen, J. M. and Brenninkmeijer, C. A. M. and Schuck, T. J. and Conway, T. J. and Worthy, D. E.},
-TITLE = {Inverse modeling of CO<sub>2</sub> sources and sinks using satellite observations of CO<sub>2</sub> from TES and surface flask measurements},
-JOURNAL = {Atmospheric Chemistry and Physics},
-VOLUME = {11},
+@Article{Morino_2011,
+AUTHOR = {Morino, I. and Uchino, O. and Inoue, M. and Yoshida, Y. and Yokota, T. and Wennberg, P. O. and Toon, G. C. and Wunch, D. and Roehl, C. M. and Notholt, J. and Warneke, T. and Messerschmidt, J. and Griffith, D. W. T. and Deutscher, N. M. and Sherlock, V. and Connor, B. and Robinson, J. and Sussmann, R. and Rettinger, M.},
+TITLE = {Preliminary validation of column-averaged volume mixing ratios of carbon dioxide and methane retrieved from GOSAT short-wavelength infrared spectra},
+JOURNAL = {Atmospheric Measurement Techniques},
+VOLUME = {4},
 YEAR = {2011},
-NUMBER = {12},
-PAGES = {6029--6047},
-URL = {http://www.atmos-chem-phys.net/11/6029/2011/},
-DOI = {10.5194/acp-11-6029-2011}
+NUMBER = {6},
+PAGES = {1061--1076},
+URL = {http://www.atmos-meas-tech.net/4/1061/2011/},
+DOI = {10.5194/amt-4-1061-2011}
 }
 
 @Article{Yoshida_2011,
@@ -275,20 +273,15 @@ URL = {http://www.atmos-meas-tech.net/4/717/2011/},
 DOI = {10.5194/amt-4-717-2011}
 }
 
-@Article{Basu_2013,
-AUTHOR = {Basu, S. and Guerlet, S. and Butz, A. and Houweling, S. and Hasekamp, O. and Aben, I. and Krummel, P. and Steele, P. and Langenfelds, R. and Torn, M. and Biraud, S. and Stephens, B. and Andrews, A. and Worthy, D.},
-TITLE = {Global CO<sub>2</sub> fluxes estimated from GOSAT retrievals of total column CO<sub>2</sub>},
-JOURNAL = {Atmospheric Chemistry and Physics},
-VOLUME = {13},
-YEAR = {2013},
-NUMBER = {17},
-PAGES = {8695--8717},
-URL = {http://www.atmos-chem-phys.net/13/8695/2013/},
-DOI = {10.5194/acp-13-8695-2013}
+@misc{GLOBALVIEW_2013,
+author = {GLOBALVIEW-CO2},
+title = {Cooperative Global Atmospheric Data Integration Project. 2013, updated annually. Multi-laboratory compilation of synchronized and gap-filled atmospheric carbon dioxide records for the period 1979-2012 (obspack\textunderscore co2\textunderscore 1\textunderscore GLOBALVIEW-CO2\textunderscore 2013\textunderscore v1.0.4\textunderscore 2013-12-23). Compiled by NOAA Global Monitoring Division: Boulder, Colorado, U.S.A.},
+doi = {Data product accessed at http://dx.doi.org/10.3334/OBSPACK/1002},
+year = {2013}
 }
 
-@inbook{Hartmann_2013
-   author = {Hartmann, D.L. and Klein Tank, A.M.G. and Rusticucci, M. and Alexander, L.V. and Brönnimann, S. and Charabi, Y. and Dentener, F.J. and Dlugokencky, E.J. and Easterling, D.R. and Kaplan, A. and Soden, B.J. and Thorne, P.W. and Wild, M. and Zhai, P.M.},
+@inbook{Hartmann_2013,
+   author = {Hartmann, D.L. and Klein Tank, A.M.G. and Rusticucci, M. and Alexander, L.V. and Brönnimann, S. and Charabi, Y. and Dentener, F.J. and Dlugokencky, E.J. and Easterling, D.R. and Kaplan, A. and Soden, B.J. and Thorne, P.W. and Wild, M. and Zhai, P.M.},
    title = {Observations: Atmosphere and Surface},
    booktitle = {Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change},
    editor = {Stocker, T.F. and Qin, D. and Plattner, G.-K. and Tignor, M. and Allen, S.K. and Boschung, J. and Nauels, A. and Xia, Y. and Bex, V. and Midgley, P.M.},
@@ -303,7 +296,7 @@ DOI = {10.5194/acp-13-8695-2013}
    type = {Book Section}
 }
 
-@inbook{Myhre_2013
+@inbook{Myhre_2013,
    author = {Myhre, G. and Shindell, D. and Bréon, F.-M. and Collins, W. and Fuglestvedt, J. and Huang, J. and Koch, D. and Lamarque, J.-F. and Lee, D. and Mendoza, B. and Nakajima, T. and Robock, A. and Stephens, G. and Takemura, T. and Zhang, H.},
    title = {Anthropogenic and Natural Radiative Forcing},
    booktitle = {Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change},
@@ -317,6 +310,43 @@ DOI = {10.5194/acp-13-8695-2013}
    url = {www.climatechange2013.org},
    year = {2013},
    type = {Book Section}
+}
+
+@Article{Yoshida_2013,
+AUTHOR = {Yoshida, Y. and Kikuchi, N. and Morino, I. and Uchino, O. and Oshchepkov, S. and Bril, A. and Saeki, T. and Schutgens, N. and Toon, G. C. and Wunch, D. and Roehl, C. M. and Wennberg, P. O. and Griffith, D. W. T. and Deutscher, N. M. and Warneke, T. and Notholt, J. and Robinson, J. and Sherlock, V. and Connor, B. and Rettinger, M. and Sussmann, R. and Ahonen, P. and Heikkinen, P. and Kyr\"o, E. and Mendonca, J. and Strong, K. and Hase, F. and Dohe, S. and Yokota, T.},
+TITLE = {Improvement of the retrieval algorithm for GOSAT SWIR XCO<sub>2</sub> and XCH<sub>4</sub> and their validation using TCCON data},
+JOURNAL = {Atmospheric Measurement Techniques},
+VOLUME = {6},
+YEAR = {2013},
+NUMBER = {6},
+PAGES = {1533--1547},
+URL = {http://www.atmos-meas-tech.net/6/1533/2013/},
+DOI = {10.5194/amt-6-1533-2013}
+}
+
+@Article{Inoue_2014,
+AUTHOR = {Inoue, M. and Morino, I. and Uchino, O. and Miyamoto, Y. and Saeki, T. and Yoshida, Y. and Yokota, T. and Sweeney, C. and Tans, P. P. and Biraud, S. C. and Machida, T. and Pittman, J. V. and Kort, E. A. and Tanaka, T. and Kawakami, S. and Sawa, Y. and Tsuboi, K. and Matsueda, H.},
+TITLE = {Validation of XCH<sub>4</sub> derived from SWIR spectra of GOSAT TANSO-FTS with aircraft measurement data},
+JOURNAL = {Atmospheric Measurement Techniques},
+VOLUME = {7},
+YEAR = {2014},
+NUMBER = {9},
+PAGES = {2987--3005},
+URL = {http://www.atmos-meas-tech.net/7/2987/2014/},
+DOI = {10.5194/amt-7-2987-2014}
+}
+
+@Article{Inoue_2016,
+AUTHOR = {Inoue, M. and Morino, I. and Uchino, O. and Nakatsuru, T. and Yoshida, Y. and Yokota, T. and Wunch, D. and Wennberg, P. O. and Roehl, C. M. and Griffith, D. W. T. and Velazco, V. A. and Deutscher, N. M. and Warneke, T. and Notholt, J. and Robinson, J. and Sherlock, V. and Hase, F. and Blumenstock, T. and Rettinger, M. and Sussmann, R. and Kyr\"o, E. and Kivi, R. and Shiomi, K. and Kawakami, S. and De Mazi\`ere, M. and Arnold, S. G. and Feist, D. G. and Barrow, E. A. and Barney, J. and Dubey, M. and Schneider, M. and Iraci, L. T. and Podolske, J. R. and Hillyard, P. W. and Machida, T. and Sawa, Y. and Tsuboi, K. and Matsueda, H. and Sweeney, C. and Tans, P. P. and Andrews, A. E. and Biraud, S. C. and Fukuyama, Y. and Pittman, J. V. and Kort, E. A. and Tanaka, T.},
+TITLE = {Bias corrections of GOSAT SWIR XCO$_{2}$ and XCH$_{4}$ with TCCON data and
+their evaluation using aircraft measurement data},
+JOURNAL = {Atmospheric Measurement Techniques},
+VOLUME = {9},
+YEAR = {2016},
+NUMBER = {8},
+PAGES = {3491--3512},
+URL = {http://www.atmos-meas-tech.net/9/3491/2016/},
+DOI = {10.5194/amt-9-3491-2016}
 }
 
 @Article{Wunch_2016,
